@@ -8,7 +8,7 @@ _La **minería de datos** es el proceso de detectar la información procesable d
 
 ### Creador 📋
 
- _Marco Antonio Oviedo Acevedo_ /
+ _Marco Antonio Oviedo Acevedo_ `\ n`
  _1851698_ /
   _Lic. Actuaria_ /
 
