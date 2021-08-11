@@ -8,13 +8,13 @@ _La **minería de datos** es el proceso de detectar la información procesable d
 
 ### Creador 📋
 
-* _Marco Antonio Oviedo Acevedo_
-* _1851698_
-* _Lic. Actuaria_
+  _Marco Antonio Oviedo Acevedo_
+  _1851698_
+  _Lic. Actuaria_
 
 ### Recursos 📖
 
-_Recursos para la elaboración del proyecto_
+* [Libros](https://github.com/mayraberrones94/Ciencia_de_Datos/tree/master/Mineria-datos/Libros) 
 
 ### Examen Diagnostico ⌨️
 
@@ -22,7 +22,7 @@ _Recursos para la elaboración del proyecto_
 
 ## Fase 1 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+* [Mapa Mental 1](https://github.com/OviedoMarco/Mineria_de_datos/blob/main/MapaMental_1_1851698.pdf) - Link de Prezi [Link](https://prezi.com/i/0x2ao-4xy2s1/)
 
 
 ---
