@@ -25,6 +25,7 @@ _Lic. Actuaria_
 ## Fase 1 🛠️
 
 * [Mapa Mental 1](https://github.com/OviedoMarco/Mineria_de_datos/blob/main/MapaMental_1_1851698.pdf) - Link de Prezi [Link](https://prezi.com/i/0x2ao-4xy2s1/)
+* [Ejercicio Base De Datos](https://github.com/OviedoMarco/Mineria_de_datos/blob/main/Equipo_9-Ejercicio%20base%20de%20datos.pptx.pdf) - PDF
 
 
 ---
