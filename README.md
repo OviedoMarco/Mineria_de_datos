@@ -29,6 +29,7 @@ _Lic. Actuaria_
 * [Ejercicio Básico de Python](https://github.com/OviedoMarco/Mineria_de_datos/blob/main/Ej_Python_1851698.ipynb) - Jupyter Notebook
 * [Ejemplo De Limpieza De Datos](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Ej_Limpieza_Equipo09%20.ipynb) - Jupyter Notebook
 * [Primer Avance Del PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Avance1_PIA_Equipo09.ipynb) - Jupyter Notebook
+* [Base Secundaria](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Base_Secundaria.ipynb) - Jupyter Notebook
 
 ---
 Elaborado por [OviedoMarco](https://github.com/OviedoMarco) ✒️
