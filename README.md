@@ -30,7 +30,9 @@ _Lic. Actuaria_
 * [Ejemplo De Limpieza De Datos](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Ej_Limpieza_Equipo09%20.ipynb) - Jupyter Notebook
 * [Primer Avance Del PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Avance1_PIA_Equipo09.ipynb) - Jupyter Notebook
 * [Base Secundaria](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Base_Secundaria.ipynb) - Jupyter Notebook
----
+
+
+## Fase 1 🛠️
 * [Presentacion Metodo k-Means ](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Presentacion_k-Means_Equipo09.pptx.pdf) - PDF
 
 ---
