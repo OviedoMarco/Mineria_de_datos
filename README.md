@@ -32,7 +32,7 @@ _Lic. Actuaria_
 * [Base Secundaria](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Base_Secundaria.ipynb) - Jupyter Notebook
 
 
-## Fase 1 🛠️
+## Fase 2 🛠️
 * [Presentacion Metodo k-Means ](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Presentacion_k-Means_Equipo09.pptx.pdf) - PDF
 
 ---
