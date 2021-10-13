@@ -36,5 +36,9 @@ _Lic. Actuaria_
 * [Presentacion Metodo k-Means ](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Presentacion_k-Means_Equipo09.pptx.pdf) - PDF
 * [Practica de Visualización ](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/Visualizacion_Equipo09.ipynb) - Colab
 * [Segundo Avance del PIA ](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/AvancePIA_II_Grupo002_Equipo09.ipynb) - Colab
+
+
+## Fase 3 🛠️
+* [Tecnicas y Validación](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/Tecnicas_PIA_II_Grupo002_Equipo09.ipynb) - Colab
 ---
 Elaborado por [OviedoMarco](https://github.com/OviedoMarco) ✒️
