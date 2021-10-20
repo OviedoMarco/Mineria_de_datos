@@ -40,5 +40,6 @@ _Lic. Actuaria_
 
 ## Fase 3 🛠️
 * [Tecnicas y Validación](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/Tecnicas_PIA_II_Grupo002_Equipo09.ipynb) - Colab
+* [NoteBook Final](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/NoteBook_Grupo002_Equipo09.ipynb) - Colab
 ---
 Elaborado por [OviedoMarco](https://github.com/OviedoMarco) ✒️
