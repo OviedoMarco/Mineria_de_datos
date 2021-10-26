@@ -43,7 +43,7 @@ _Lic. Actuaria_
 * [NoteBook Final](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/NoteBook_Grupo002_Equipo09.ipynb) - Colab
 
 ## POSTER 🧾
-* [Poster PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/POSTER%20PIA.pdf) - PDF
+* [Poster PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/POSTER.pdf) - PDF
 
 ---
 Elaborado por [OviedoMarco](https://github.com/OviedoMarco) ✒️
